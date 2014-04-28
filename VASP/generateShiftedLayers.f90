@@ -1,3 +1,4 @@
+! Read in vasp input file and generate new file with nLayers vertically stacked copies of original unit cell with random displacement in plane
 program shiftedLayers
 implicit none
 
