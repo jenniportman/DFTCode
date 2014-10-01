@@ -1,5 +1,4 @@
-usefulCode
+DFTCode
 ==========
 
-Useful pieces of code
-Try this!
+Useful pieces of code for my DFT stuff
