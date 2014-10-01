@@ -1,7 +1,0 @@
-10000 #total number electrons
-100 #number of slices
-100 #electrons per macroparticle
-21.2332E-15 #tSigma
-96.5142E-6 #xSigma
-5.000E-6 4.45E-6 4.65E-6 #Ef, W, Eph (in MeV)
-0 #0=gaussian 1=uniform 2=elliptical
